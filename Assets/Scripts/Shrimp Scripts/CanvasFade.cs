@@ -12,7 +12,7 @@ public class FadeCanvas : MonoBehaviour
     private CanvasGroup canvasGroup = null;
     private float alpha = 0.0f;
 
-    private float quickFadeDuration = 0.25f;
+    private float quickFadeDuration = 0.24f;
 
     private void Awake()
     {
